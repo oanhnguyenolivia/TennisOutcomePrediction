@@ -13,7 +13,7 @@ Glicko Rating System: An extension of the Elo system that includes a measure of 
 TrueSkill: Developed by Microsoft, this system is used for ranking players in games. It models player skills as a Gaussian distribution and updates based on match outcomes.
 
 <h2>Conclusion</h2>
-This project demonstrates the application of various rating systems and machine learning models to predict tennis match outcomes. By comparing the performance of Elo, Glicko, TrueSkill, TrueSkill2, Naive, and Logistic Regression models, it provides insights into the strengths and weaknesses of each approach. The results can guide future improvements in predictive modeling for sports outcomes.
+This project demonstrates the application of various rating systems and machine learning models to predict tennis match outcomes. By comparing the performance of Elo, Glicko, TrueSkill, Naive, and Logistic Regression models, it provides insights into the strengths and weaknesses of each approach. The results can guide future improvements in predictive modeling for sports outcomes.
 
 <h2>Languages and Utilities Used</h2>
 
