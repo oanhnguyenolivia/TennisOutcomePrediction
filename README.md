@@ -6,10 +6,10 @@ This project aims to predict the outcomes of tennis matches using various rating
 <br />
 
 <h2>Models Implemented</h2>
-Naive Model: A baseline model that predicts outcomes based on simple heuristics or assumptions without sophisticated learning.
-Logistic Regression: A machine learning model that predicts match outcomes by learning a linear relationship between player features and the probability of winning.
-Elo Rating System: A widely-used rating system that updates player ratings based on match outcomes. The difference in player ratings is used to predict the probability of winning.
-Glicko Rating System: An extension of the Elo system that includes a measure of rating reliability (RD), which adjusts based on match frequency and outcomes.
+Naive Model: A baseline model that predicts outcomes based on simple heuristics or assumptions without sophisticated learning. <br />
+Logistic Regression: A machine learning model that predicts match outcomes by learning a linear relationship between player features and the probability of winning.<br />
+Elo Rating System: A widely-used rating system that updates player ratings based on match outcomes. The difference in player ratings is used to predict the probability of winning.<br />
+Glicko Rating System: An extension of the Elo system that includes a measure of rating reliability (RD), which adjusts based on match frequency and outcomes.<br />
 TrueSkill: Developed by Microsoft, this system is used for ranking players in games. It models player skills as a Gaussian distribution and updates based on match outcomes.
 
 <h2>Conclusion</h2>
